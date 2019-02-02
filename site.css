@@ -1,4 +1,4 @@
-body{
+	body{
 	background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(headway-537308-unsplash.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
@@ -6,10 +6,21 @@ body{
 }
 	h1{
 		font-size:40px;
-		color: #355C0D;
+		color: #80b8da;
 		text-align:center;
 }
-
+	footer{
+		position:absolute;
+		left:0px;
+		display:block;
+		background-color:#75bed6;
+		margin-top:8px;
+		text-align:left;
+		color:#220AC0;
+		padding:7px;
+		width:99%;
+		font-size:20px;	
+}
 .nav ul {
     list-style-type: none;
     margin: 0;
@@ -25,8 +36,9 @@ body{
 
 .nav ul li a{
    display:;
-   	color:#81720F;
-	font-size:25px; 
+   	color:##b8a6cc;
+	font-size:25px;
 	text-decoration:none;
 }
+
 
