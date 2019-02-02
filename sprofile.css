@@ -1,0 +1,33 @@
+body{
+	background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(headway-537308-unsplash.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	overflow-x:hidden;
+}
+	h1{
+		font-size:40px;
+		color: #355C0D;
+		text-align:center;
+}
+
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+	
+	.nav ul li{
+	float:left;
+	list-style-type:none;
+}
+
+.nav ul li a{
+   display:;
+   	color:#81720F;
+	font-size:25px;
+	padding:8px 138px; 
+	text-decoration:none;
+}
+
